@@ -12,7 +12,7 @@
 
 ## Usage
 
-1.  **Build:** `go build -o alarmego .`
+1.  **Build:** `go build -o alarmego alarmego.go`
 2.  **Run:** `./alarmego` to start the alarm system.
 3.  **Commands:**
     * `./alarmego add 1h "Take a break"`
